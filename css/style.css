@@ -1,7 +1,7 @@
 /*Components*/
-@import url(componets/card.css);
-@import url(componets/avatar.css);
-@import url(componets/button.css);
+@import url(components/card.css);
+@import url(components/avatar.css);
+@import url(components/button.css);
 
 body{
     text-align: center;
