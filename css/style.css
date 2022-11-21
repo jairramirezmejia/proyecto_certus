@@ -1,0 +1,42 @@
+/*Components*/
+@import url(componets/card.css);
+@import url(componets/avatar.css);
+@import url(componets/button.css);
+
+body{
+    text-align: center;
+    background-color:#7FC8A9;
+}
+
+h1, h2{
+    color: #5F7A61;
+    font-size: 30px;
+}
+
+ul{
+    color: #444941;
+    font-size: 20px;
+}
+
+a{
+    color: #444941;
+}
+
+a:hover{
+    color: yellowgreen;
+}
+
+.redes li{
+    list-style: none;
+    display:inline-flex;
+    font-size: 50px;
+}
+
+.redes {
+    text-align: center;
+}
+
+p{
+    color: #444941;
+    font-size: 20px;
+}
